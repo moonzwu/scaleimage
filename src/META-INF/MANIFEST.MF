@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: log4j-1.2.16.jar commons-io-2.4.jar thumbnailator-0.4.7.jar
+Main-Class: com.aface.ScaleImage
+
