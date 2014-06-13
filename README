@@ -1,2 +1,3 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
-This file was modified by IntelliJ IDEA 12.1.6 for binding GitHub repository
+ScaleImage is a project to go to generate the thumbnail of picture
+Usage:
+java -jar scaleimg.jar [file Name] width height
